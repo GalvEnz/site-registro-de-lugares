@@ -1,0 +1,79 @@
+{
+  "categorias": [
+    {
+      "nome": "Shoppings Atualizado",
+      "descrição": "Para fazer compras e passear",
+      "id": "1ed9"
+    },
+    {
+      "id": "31ca",
+      "nome": "Bares",
+      "descricao": "teste"
+    },
+    {
+      "id": "3dd7",
+      "nome": "Parques",
+      "descricao": "teste 2"
+    },
+    {
+      "id": "3",
+      "nome": "Shoppings",
+      "descrição": "Para fazer compras e passear"
+    },
+    {
+      "nome": "Parques de diversão",
+      "descricao": "Parques ao redor do mundo",
+      "id": "pI4QiuH"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "6f95",
+      "nome": "Bar do zé",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6BKTqW4FCh278BcBxivD1kwAUfdxDxzqRw&s",
+      "avaliacao": "4"
+    },
+    {
+      "id": "6f95",
+      "nome": "Praia do zé",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://harus.ind.br/wp-content/uploads/2023/02/5-praias-brasileiras.jpg",
+      "avaliacao": "4"
+    },
+    {
+      "id": "04e9",
+      "nome": "Praia do Espelho",
+      "categoria": "Praias",
+      "localizacao": "Bahia",
+      "urlFoto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/01/melhores-praias-do-brasil-praia-do-espelho-820x547.jpg",
+      "avaliacao": "5"
+    },
+    {
+      "id": "5057",
+      "nome": "Parque Ibirapuera",
+      "categoria": "Parques",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://parqueibirapuera.org/wp/wp-content/uploads/2016/03/RN-Ibirapuera-Aerea-20150121-5-1-foto-destacada-resized.jpg",
+      "avaliacao": "4"
+    },
+    {
+      "nome": "Hopi Hari",
+      "categoria": "Parques de diversão",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://i0.statig.com.br/hopihari/img/DJI_0066-3.jpg",
+      "avaliacao": "5",
+      "id": "5dXufJi"
+    },
+    {
+      "nome": "Shopping Iguatemi",
+      "categoria": "Shoppings",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/iguatemi020.jpeg?crop=1&resize=1212,909",
+      "avaliacao": "5",
+      "id": "PzxpG9s"
+    }
+  ]
+}
